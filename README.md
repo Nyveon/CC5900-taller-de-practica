@@ -3,6 +3,10 @@
 
 CC4900 &amp; CC5900 para la gente que no tenga accesso a estos cursos. Material recopilado Octubre 2022, tener en cuenta que existe la posibilidad de que haya cambiado.
 
+**En particular el material es de CC5900.** Pero es basicamente equivalente. (Hasta hay lugares en el taller II donde se refieren al curso como taller I xd)
+
+*Material perteneciente a la Facultad de Ciencias Físicas y Matemáticas, este repositorio no es oficial y solo sirve como forma alternativa de acceder al mismo material.*
+
 ## Contenidos
 
 ### Módulo 0 | Bienvenida
