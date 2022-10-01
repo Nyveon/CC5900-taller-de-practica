@@ -18,6 +18,4 @@ A continuación te explicaremos:
 ## Navegación
 
 [< Anterior](./03%20-%20Actores%20involucrados%20y%20sus%20(tus)%20responsabilidades.md)
-
-todo:
-[Siguiente >]()
+[Siguiente >](../../Modulo%201/00%20-%20Qué%20es%20un%20plan%20de%20práctica.md)

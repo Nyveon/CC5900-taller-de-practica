@@ -3,7 +3,15 @@
 
 CC4900 &amp; CC5900 para la gente que no tenga accesso a estos cursos. Material recopilado Octubre 2022, tener en cuenta que existe la posibilidad de que haya cambiado.
 
-**En particular el material es de CC5900.** Pero es basicamente equivalente. (Hasta hay lugares en el taller II donde se refieren al curso como taller I xd)
+**En particular el material es de CC5900.**
+
+Pero es basicamente equivalente. (Hasta hay lugares en el taller II donde se refieren al curso como taller I xd)
+
+**¿Problemas?**
+
+Algun material no carga o está mal enlazado? Por favor deja un [issue](https://github.com/Nyveon/CCX900-taller-de-practica/issues) aquí en github.
+
+**Disclaimer**
 
 *Material perteneciente a la Facultad de Ciencias Físicas y Matemáticas, este repositorio no es oficial y solo sirve como forma alternativa de acceder al mismo material.*
 
