@@ -12,14 +12,14 @@ CC4900 &amp; CC5900 para la gente que no tenga accesso a estos cursos. Material 
 ### Módulo 0 | Bienvenida
 
 - Introducción
-  - Bienvenida al Taller de Práctica Profesional II
-  - Conociendo EOL
+  - [Bienvenida al Taller de Práctica Profesional II](Modulo%200/0%20-%20Introducción/00%20-%20Bienvenida%20al%20Taller%20de%20Práctica%20Profesional%20II.md)
+  - [Conociendo EOL](Modulo%200/0%20-%20Introducción/01%20-%20Conociendo%20EOL.md)
 - Guía de Práctica Profesional
-  - Ciclo de Práctica Profesional
-  - Requisitos y características de la Práctica Profesional II
-  - Evaluación de la Práctica Profesional II en etapas
-  - Actores involucrados y sus (tus) responsabilidades
-  - Búsqueda de Prácticas
+  - [Ciclo de Práctica Profesional](Modulo%200/1%20-%20Guía%20de%20Práctica%20Profesional/00%20-%20Ciclo%20de%20Práctica%20Profesional.md)
+  - [Requisitos y características de la Práctica Profesional II](Modulo%200/1%20-%20Guía%20de%20Práctica%20Profesional/01%20-%20Requisitos%20y%20características%20de%20la%20Práctica%20Profesional%20II.md)
+  - [Evaluación de la Práctica Profesional II en etapas](Modulo%200/1%20-%20Guía%20de%20Práctica%20Profesional/02%20-%20Evaluación%20de%20la%20Práctica%20Profesional%20II%20en%20etapas.md)
+  - [Actores involucrados y sus (tus) responsabilidades](Modulo%200/1%20-%20Guía%20de%20Práctica%20Profesional/03%20-%20Actores%20involucrados%20y%20sus%20(tus)%20responsabilidades.md)
+  - [Búsqueda de Prácticas](Modulo%200/1%20-%20Guía%20de%20Práctica%20Profesional/04%20-%20Búsqueda%20de%20Prácticas.md)
 
 ### Módulo 1 | Plan de Práctica
 
