@@ -9,9 +9,9 @@ Pero es basicamente equivalente. (Hasta hay lugares en el taller II donde se ref
 
 **¿Problemas?**
 
-Algun material no carga o está mal enlazado? Por favor deja un [issue](https://github.com/Nyveon/CCX900-taller-de-practica/issues) aquí en github.
+¿Algun material no carga o está mal enlazado? Por favor deja un [issue](https://github.com/Nyveon/CCX900-taller-de-practica/issues) aquí en github.
 
-**Disclaimer**
+**Disclaimer:**
 
 *Material perteneciente a la Facultad de Ciencias Físicas y Matemáticas, este repositorio no es oficial y solo sirve como forma alternativa de acceder al mismo material.*
 
@@ -31,9 +31,9 @@ Algun material no carga o está mal enlazado? Por favor deja un [issue](https://
 
 ### Módulo 1 | Plan de Práctica
 
-- ¿Que es un plan de práctica?
-- ¿Cómo entregar y aprobar el Plan de Práctica?
-- Competencias del perfil de egreso
+- [¿Que es un plan de práctica?](./Modulo%201/00%20-%20Qu%C3%A9%20es%20un%20plan%20de%20pr%C3%A1ctica.md)
+- [¿Cómo entregar y aprobar el Plan de Práctica?](./Modulo%201/01%20-%20C%C3%B3mo%20entregar%20y%20aprobar%20el%20Plan%20de%20Pr%C3%A1ctica.md)
+- [Competencias del perfil de egreso](./Modulo%201/02%20-%20Competencias%20del%20perfil%20de%20egreso.md)
 
 ### Módulo 2 | Habilidades comunicativas para el mundo profesional
 
