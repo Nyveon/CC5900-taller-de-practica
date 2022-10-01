@@ -15,6 +15,4 @@ Aquí te presentamos las competencias específicas del perfil de egreso de tu ca
 ## Navegación
 
 [< Anterior](./01%20-%20C%C3%B3mo%20entregar%20y%20aprobar%20el%20Plan%20de%20Pr%C3%A1ctica.md)
-
-todo:
-[Siguiente >]()
+[Siguiente >](../Modulo%202/0%20-%20Introducci%C3%B3n/00%20-%20Bienvenida%20y%20presentaci%C3%B3n%20del%20m%C3%B3dulo.md)

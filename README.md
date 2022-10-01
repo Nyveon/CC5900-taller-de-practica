@@ -1,7 +1,9 @@
 
 # CC4900 & CC5900 - Taller de práctica profesional - DCC
 
-CC4900 &amp; CC5900 para la gente que no tenga accesso a estos cursos. Material recopilado Octubre 2022, tener en cuenta que existe la posibilidad de que haya cambiado. [Disclaimer](#disclaimer)
+[Disclaimer.](#disclaimer)
+
+CC4900 &amp; CC5900 para la gente que no tenga accesso a estos cursos. Material recopilado Octubre 2022, tener en cuenta que existe la posibilidad de que haya cambiado.
 
 **En particular el material es de CC5900.**
 
@@ -34,15 +36,15 @@ Pero es basicamente equivalente. (Hasta hay lugares en el taller II donde se ref
 ### Módulo 2 | Habilidades comunicativas para el mundo profesional
 
 - Introducción
-  - Bienvenida y presentación del módulo
+  - [Bienvenida y presentación del módulo](./Modulo%202/0%20-%20Introducci%C3%B3n/00%20-%20Bienvenida%20y%20presentaci%C3%B3n%20del%20m%C3%B3dulo.md)
 - Unidad 1 | Conocimientos y habilidades para la comunicación profesional
-  - 1.1 Lectura profesional: 6 niveles para comprender un texto
-  - 1.2 Escritura profesional: géneros y estilo profesional
-  - 1.3 Oralidad profesional: géneros discursivos orales
+  - [1.1 Lectura profesional: 6 niveles para comprender un texto](./Modulo%202/1%20-%20Unidad%201/00%20-%20Lectura%20profesional.md)
+  - [1.2 Escritura profesional: géneros y estilo profesional](./Modulo%202/1%20-%20Unidad%201/01%20-%20Escritura%20profesional.md)
+  - [1.3 Oralidad profesional: géneros discursivos orales](./Modulo%202/1%20-%20Unidad%201/02%20-%20Oralidad%20profesional.md)
 - Cierre
-  - Evaluación de aprendizajes
-  - Palabras finales
-  - Recursos complementarios/anexos
+  - [Evaluación de aprendizajes](./Modulo%202/2%20-%20Cierre/00%20-%20Evaluaci%C3%B3n%20de%20aprendizajes.md)
+  - [Palabras finales](./Modulo%202/2%20-%20Cierre/01%20-%20Palabras%20finales.md)
+  - [Recursos complementarios/anexos](./Modulo%202/2%20-%20Cierre/02%20-%20Recursos%20complementarios%20-%20anexos.md)
 
 ### Módulo 3 | Ética Profesional
 
