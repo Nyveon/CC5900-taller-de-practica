@@ -1,0 +1,1 @@
+# Actores involucrados y sus (tus) responsabilidades
