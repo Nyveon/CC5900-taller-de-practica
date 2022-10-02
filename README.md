@@ -1,17 +1,17 @@
 
-# CC4900 & CC5900 - Taller de práctica profesional - DCC
+# CC5900 - Taller de práctica profesional II - DCC
 
 [Disclaimer.](#disclaimer)
 
-CC4900 &amp; CC5900 para la gente que no tenga accesso a estos cursos. Material recopilado Octubre 2022, tener en cuenta que existe la posibilidad de que haya cambiado.
+Creado para quienes no tienen acceso a los cursos.
 
-**En particular el material es de CC5900.**
-
-Pero es basicamente equivalente. (Hasta hay lugares en el taller II donde se refieren al curso como taller I xd)
+En particular el material es de CC5900. Pero es básicamente equivalente al de CC4900. (Hasta hay lugares en este donde se refieren al curso como taller I)
 
 **¿Problemas?**
 
 ¿Algun material no carga o está mal enlazado? Por favor deja un [issue](https://github.com/Nyveon/CCX900-taller-de-practica/issues) aquí en github.
+
+Material recopilado Octubre 2022, tener en cuenta que existe la posibilidad de que haya cambiado.
 
 ## Contenidos
 
